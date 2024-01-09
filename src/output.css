@@ -535,6 +535,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.relative {
+  position: relative;
+}
+
 .my-auto {
   margin-top: auto;
   margin-bottom: auto;

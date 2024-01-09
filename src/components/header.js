@@ -1,6 +1,7 @@
 import React from "react";
 import Styles from "./style.module.css";
 import Search from "./search";
+import Card from "./Card";
 
 const Header = () => {
   return (
@@ -11,6 +12,7 @@ const Header = () => {
         </h2>
         <div>
           <Search />
+          <Card />
         </div>
       </div>
     </div>
