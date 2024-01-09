@@ -1,0 +1,15 @@
+.bg_img {
+  background-image: url(/src/images/pattern-bg-desktop.png);
+  object-fit: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; /* Center the background image */
+  width: 100%;
+  height: fit-content;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+#map_height {
+  height: 100vh;
+}

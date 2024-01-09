@@ -1,7 +1,11 @@
+import Header from "./components/header";
+import Map from "./components/map";
+
 function App() {
   return (
     <div>
-      <h1 className="">I love jesus</h1>
+      <Header />
+      <Map />
     </div>
   );
 }
